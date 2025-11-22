@@ -1,0 +1,7 @@
+{
+  "name": "Little Star English - Primary English Tutor",
+  "description": "An interactive English learning platform for primary school students featuring AI-generated lessons, quizzes, and real-time text-to-speech pronunciation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
